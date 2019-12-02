@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Belajar Markdown
+comments:   true
 date:       2019-12-02 22:38:19
 summary:    Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
 categories: celotehan post
