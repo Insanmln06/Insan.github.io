@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Cara upload file ke github menggunakan terminal di linux
-date:       2019-12-02 22:22:22
+date:       2019-12-03 08:35:22
 summary:    pada artikel kali ini saya akan membahas tentang cara mengupload file ke github menggunakan perintah git di terminal linux
 categories: celotehan post
 ---
@@ -10,7 +10,7 @@ pada artikel kali ini saya akan membahas tentang cara mengupload file ke github 
 
 Sebelumnya saya asumsikan kalian sudah membuat repositori di akun github kalian bagi yang belum bisa membuatnya terlebih dahulu.
 
-## Mengupload folder(repositori lokal)
+### Mengupload folder(repositori lokal)
 
 Sebelum melakukan upload pastikan di PC atau laptop sudah tersedia git, kalian bisa menginstallnya dengan perintah `sudo apt-get install git`
 
@@ -24,10 +24,10 @@ git remote add origin https://github.com/aisy/js-belajar-react.git
 git push --force origin master
 ```
 Keterangan perintah diatas seperti ini :
-### git init
+#### git init
 
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
-### git add “.” atau nama file
+#### git add “.” atau nama file
 
 untuk menambah file project yang mau di upload sebelum di commit, tanda titik setelah kata “add” pada perintah tersebut adalah keseluruhan file dan folder project tersebut, saat awal upload kalian bisa menggunakan perintah tersebut. Namun saat commit atau upload ke repository selanjutnya bisa menggunakan perintah add dengan “nama file” untuk memberikan status commit. Ini adalah contohnya apabila ingin menggunakan “git add” :
 ```
@@ -38,7 +38,7 @@ git add index.html
 // mengupload file pada dalam folder
 git add pages/index.html
 ```
-### git commit -m “isi commit”
+#### git commit -m “isi commit”
 
 untuk menambah keterangan/status perubahaan saat upload ke repo online, untuk memasukkan keterangan tersebut setelah “git commit -m” ditambah tanda petik lalu komentar(lihat di list perintah untuk contoh).
 
