@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      Apa itu Markdown ?
-date:       2019-12-02 22:22:22
+title:      Belajar Markdown
+comments:   true
+date:       2019-12-02 22:38:19
 summary:    Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
-
-Pada dasarnya markdown sama seperti HTML. Namun, lebih sederhana dan mudah dibaca.
 categories: celotehan post
 ---
 Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
