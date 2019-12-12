@@ -1,2 +1,2 @@
 # Image Post
-my Image in My Post
+My Image In My Post
