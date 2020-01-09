@@ -32,7 +32,6 @@ Understandably I did not know much about the desktop environment at that time I 
 
 From here I finally tried Manjaro Linux. 
 Manjaro Linux is a derivative of Arch Linux, which utilizes the Xfce desktop environment, rolling release model, and Pacman package manager. 
-but the problem is the same as when using Linux times,
 It took a long time to use this distribution to be my leptop default operating system.
 As long as I use the manjaro distro, it also doesn't run smoothly, sometimes I find errors when I try to install an application package, but this problem doesn't make me give up because actually, the challenges when overcoming the existing problems is what makes using the Linux OS attractive to me.
 
