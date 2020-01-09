@@ -14,9 +14,7 @@ The first time I first tried Linux was when I was in junior high school.
 At that time the reason I wanted to try Linux was my interest in Metasploit. 
 Therefore, the first Linux I tried was Kali Linux, dual booting with Windows 7.
 
-But my first experience installing linux is arguably quite pait the article that my initial intention was to do dual os linux with windows instead ended up failing and my hard disk data was also formatted instead. 
-It is quite paiting, but I do not dissolve in sadness, 
-because most of the data on my hard disk only contains the contents of the Game and Anime.
+But my first experience installing linux is arguably quite bitter because the initial intention was for the dual linux os with windows to fail and my hard disk data was formatted. It's quite paiting, I haven't used it with sadness, because most of the data on my hard disk only has Game and Anime content, but it's still understandable.
 
 Even though my first experience was quite relevant, 
 it didn't make me give up and I went back to try installing again and learn from the first experience. 
