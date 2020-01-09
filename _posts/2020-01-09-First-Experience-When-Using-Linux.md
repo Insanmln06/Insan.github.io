@@ -3,7 +3,9 @@ layout:     post
 title:      First Experience When Using Linux
 comments:   true
 date:       2020-01-09 21:45:19
-summary:    Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
+summary:    The first time I first tried Linux was when I was in junior high school. 
+At that time the reason I wanted to try Linux was my interest in Metasploit. 
+Therefore, the first Linux I tried was Kali Linux, dual booting with Windows 7.
 categories: celotehan post
 ---
 ![ScreenShoot](https://fdll14.github.io/images/aku.jpg)
