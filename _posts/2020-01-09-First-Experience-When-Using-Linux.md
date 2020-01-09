@@ -2,7 +2,7 @@
 layout:     post
 title:      First Experience When Using Linux
 comments:   true
-date:       2019-01-09 21:45:19
+date:       2020-01-09 21:45:19
 summary:    Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
 categories: celotehan post
 ---
