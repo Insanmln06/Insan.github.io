@@ -7,6 +7,9 @@ summary:    Bagi yang sering bermain di Github dan web serupa, pasti sering meli
 categories: celotehan post
 ---
 ![ScreenShoot](https://fdll14.github.io/images/aku.jpg)
+
+### My Experience When Using Linux
+
 The first time I first tried Linux was when I was in junior high school. 
 At that time the reason I wanted to try Linux was my interest in Metasploit. 
 Therefore, the first Linux I tried was Kali Linux, dual booting with Windows 7.
@@ -37,3 +40,10 @@ As long as I use the manjaro distro, it also doesn't run smoothly, sometimes I f
 
 Until now, I still use Manjaro Linux. For desktop environments, you will often change, starting from gnome classic, cinnamon, mate, etc.
 From the writing above it can be concluded that maybe we did not immediately succeed when trying new things. may even face disaster. For example the wrong set of partitions that cause all files to disappear. But with that we have experience in the future.
+
+### Question
+
+1. When did I start using Linux?
+2. Why did I fail when trying to install linux for the first time?
+3. what is the problem that I first encountered when using linux?
+4. why I only use ubuntu for less than 2 weeks?
