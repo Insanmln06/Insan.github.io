@@ -1,20 +1,20 @@
 # Site settings
-title:       ./Fdll14Notes
-email:       shuro.fadhillah@gmail.com
-author:      Muhamad Shuro Fadhillah
+title:       ./insan06
+email:       insanmaulana4483@gmail.com
+author:      Insan Maulana
 description: "Just blogging and learn the code."
 baseurl:     ""
-url:         "http://fdll14.github.io"
+url:         "http://insan.github.io"
 
 google_analytics:
 animated:           true
 show_related_posts: true
 show_post_footers:  false
 show_social_icons:  false
-disqus_shortname: fdll14notes
-github_username: fdll14
+disqus_shortname: 
+github_username: insan06
 stackoverflow_id:
-twitter_username: Fdll_14
+twitter_username: 
 google_plus_id: 
 linkedin_username:
 bitcoin_url:
